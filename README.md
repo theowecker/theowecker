@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @theowecker... This Github is relatively new and still needs updating, clarification, and clean-ification (bear with me)
-- 👀 I’m interested in ... Python development, data analysis, original research on machine learning (working on data analysis with neutron scattering data sets)
-- 🌱 I’m currently learning ... more React, more Django and Vue.js, AWS infrastructure/getting a Machine Learning cert. from AWS
+- 👀 I’m interested in ... physics, Python development, data science, original research on machine learning, finding better ways to do things, building automation into boring things
+- 🌱 I’m currently learning ... ROR, machine learning applications forever, more Django and Vue.js, AWS infrastructure/Machine Learning cert.
 - 💞️ I’m looking to collaborate on ... open source software, data projects, physics
 - 📫 How to reach me ... email me at theo@theowecker.com
 
