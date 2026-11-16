@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @theowecker... This Github and its repos still needs updating, clarification, and clean-ification
-- 👀 I’m interested in ... physics, Python development, data science, original research on machine learning, finding better ways to do things, building automation into boring things, Ruby/ROR developing of large scale applications
-- 🌱 I’m currently learning ... ROR, machine learning applications forever, Django and Vue.js implementations
-- 💞️ I’m looking to collaborate on ... open source software, data projects, physics
+- 👋 Hi, I’m @theowecker... I'm a software engineer, musician, and physics-guy
+- 👀 I’m interested in ... physics, Python development, data science, original research on machine learning, finding better ways to do things, building automation into boring things, Ruby/ROR developing of useful software
+- 💞️ I’m looking to collaborate on ... open source software, data projects, physics and math ideas
 - 📫 How to reach me ... email me at theo@theowecker.com
 
 <!---
